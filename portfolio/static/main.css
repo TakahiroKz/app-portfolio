@@ -20,3 +20,15 @@
 .project-id{
     width: auto
 }
+
+.align-bottom {
+    text-align: bottom;
+}
+
+.img-portfolio {
+    height: 178px;
+}
+
+.img-post{
+    width: 100%;
+}
